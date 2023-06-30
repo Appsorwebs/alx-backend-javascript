@@ -1,2 +1,3 @@
-# alx-backend-javascript
-Short Specializations
+My first readme
+# 0x01-ES6_promise
+# 0x01-ES6_promise
