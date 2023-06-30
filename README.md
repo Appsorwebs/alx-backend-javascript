@@ -1,3 +1,3 @@
 My first readme
-# 0x01-ES6_promise
-# 0x01-ES6_promise
+# ALX 0x01-ES6_promise
+
